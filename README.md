@@ -117,6 +117,15 @@ At the moment, these options are implemented:
 **-v/-h**: Displays short help and version information.
 
 
+# Used port
+
+6000  
+6001  
+7000  
+7011  
+7100  
+
+
 # Disclaimer
 
 All the resources in this repository are written using only freely available information from the internet. The code and related resources are meant for educational purposes only. It is the responsibility of the user to make sure all local laws are adhered to.
